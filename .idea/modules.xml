@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hannibal .iml" filepath="$PROJECT_DIR$/.idea/modules/Hannibal .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hannibal__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Hannibal__main.iml" group="Hannibal " />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hannibal__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Hannibal__test.iml" group="Hannibal " />
+    </modules>
+  </component>
+</project>
