@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HannibalApplication {
+public class HannibalLecturerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HannibalApplication.class, args);
+		SpringApplication.run(HannibalLecturerApplication.class, args);
 	}
 }
