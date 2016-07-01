@@ -7,4 +7,5 @@ import org.springframework.data.repository.CrudRepository;
  * Created by hoseasandstrom on 6/30/16.
  */
 public interface LecturerRepository extends CrudRepository<Lecturer, Integer> {
+    public Iterable<Lecturer> findOne(int lecturerId);
 }

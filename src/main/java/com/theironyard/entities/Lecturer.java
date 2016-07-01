@@ -10,7 +10,7 @@ import javax.persistence.*;
 public class Lecturer {
     @Id
     @GeneratedValue
-    int lecturerId;
+    int id;
 
     @Column(nullable = false)
     String name;
@@ -30,12 +30,12 @@ public class Lecturer {
         this.image = image;
     }
 
-    public int getLecturerId() {
-        return lecturerId;
+    public int getId() {
+        return id;
     }
 
-    public void setLecturerId(int lecturerId) {
-        this.lecturerId = lecturerId;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getName() {

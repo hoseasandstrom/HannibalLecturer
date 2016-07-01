@@ -34,6 +34,13 @@ public class Review {
         this.isGood = isGood;
     }
 
+    public Review(String author, String comment, boolean isGood, Lecturer lecturer) {
+        this.author = author;
+        this.comment = comment;
+        this.isGood = isGood;
+        this.lecturer = lecturer;
+    }
+
     public int getId() {
         return id;
     }
